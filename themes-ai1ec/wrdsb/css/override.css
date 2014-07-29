@@ -98,7 +98,9 @@ body > .container > .row > .col-sm-9.col-lg-10 {
   line-height: 1;
   padding: 12px 19px;
 }
-.breadcrumb > li + li:before {
+/* REMOVED SZC 2014-07-29
+
+breadcrumb > li + li:before {
   font-family: 'icomoon' !important;
   speak: none !important;
   font-style: normal !important;
@@ -106,7 +108,7 @@ body > .container > .row > .col-sm-9.col-lg-10 {
   font-variant: normal !important;
   text-transform: none !important;
   line-height: 1 !important;
-  /* Better Font Rendering =========== */
+  / * Better Font Rendering =========== * /
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   content: "\f105";
@@ -127,6 +129,8 @@ h1 {
 h1 a {
   color: #055eaa;
 }
+
+*/
 .ai1ec-btn {
   border: none;
   border-radius: 0 !important;
