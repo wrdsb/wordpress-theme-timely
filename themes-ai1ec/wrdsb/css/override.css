@@ -90,6 +90,9 @@ body > .container > .row > .col-sm-9.col-lg-10 {
   left: 50%;
   margin-left: -16px;
 }
+
+/* REMOVED SZC 2014-07-29
+
 .breadcrumb {
   font-family: nimbus-sans, "nimbus-sans-n4", Myriad Pro, Arial, Helvetica, sans;
   font-size: 14px;
@@ -98,7 +101,6 @@ body > .container > .row > .col-sm-9.col-lg-10 {
   line-height: 1;
   padding: 12px 19px;
 }
-/* REMOVED SZC 2014-07-29
 
 breadcrumb > li + li:before {
   font-family: 'icomoon' !important;
